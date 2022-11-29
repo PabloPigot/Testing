@@ -2,7 +2,7 @@
 
 # Portfolio
 ## Sobre mí
-Soy Pablo Pigot, persona con gran interes en el testing, presentando habilidades en testing de caja blanca/negra, testing manual, elaboracion de casos de pruebas, ademas de conocimientos en herramientas de gestion de incidentes como jira y herramientas de gestion de casos de prueba como MantisBT y Testlink
+Soy Pablo Pigot, persona con gran interés en el testing, presentando habilidades en testing de caja blanca/negra, testing manual, elaboración de casos de pruebas, además de conocimientos en herramientas de gestión de incidentes como jira y herramientas de gestión de casos de prueba como MantisBT y Testlink
 https://www.linkedin.com/in/pablo-pigot-fernández-1541ba222/
 Aqui mi dejo linkedin
 
