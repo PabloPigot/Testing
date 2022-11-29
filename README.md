@@ -26,4 +26,5 @@ A continuacion les permito que vean mi trabajo como Tester, en el cual elaboro d
 * [E-Commerce de capacitación](https://japceibal.github.io/e-mercado-TESTING/index.html):
   * [Casos de Prueba](https://docs.google.com/spreadsheets/d/1MWO8qKHfZQzamuQ3Qt8JLVEY9HE6AP6A/edit?usp=sharing&ouid=117041756752276935516&rtpof=true&sd=true)
   * [Gestión de incidentes](https://docs.google.com/spreadsheets/d/1nRp7V52DuIFU4XVTpboK-cfvCAot0wxx/edit?usp=sharing&ouid=117041756752276935516&rtpof=true&sd=true)
-  * [Informe de pruebas](https://docs.google.com/document/d/1VP4W9pzRynxyccHLQNZ5z3NKUZSpJk4g)
+  * [Informe de pruebas](https://docs.google.com/document/d/1sbyaWFNVseng-HZmrhCc18nBaC9K8sV2/edit?usp=sharing&ouid=117041756752276935516&rtpof=true&sd=true)
+  * [ESRE](https://docs.google.com/document/d/1UI1Iwq4DDmoepqJOVbhXxl1GKPQXc6hZ/edit?usp=sharing&ouid=117041756752276935516&rtpof=true&sd=true)
