@@ -21,7 +21,7 @@ Aqui mi dejo linkedin
 * Introducción a las Pruebas de Sistemas de Información - Federico Toledo
 
 ## Mi trabajo
-A continuacion les permito que vean mi trabajo como Tester, en el cual elaboro desde Documentacion ESRE, creacion de casos de uso, elaboracion de casos de pureba, manejo de gestion de incidentes, hasta informe de pruebas ejecutadas, desde ya muchas gracias.
+A continuación les permito que vean mi trabajo como Tester, en el cual elaboró desde Documentación ESRE, creación de casos de uso, elaboración de casos de prueba, manejo de gestión de incidentes, hasta informe de pruebas ejecutadas, desde ya muchas gracias.
 
 * [E-Commerce de capacitación](https://japceibal.github.io/e-mercado-TESTING/index.html):
   * [Casos de Prueba](https://docs.google.com/spreadsheets/d/1MWO8qKHfZQzamuQ3Qt8JLVEY9HE6AP6A/edit?usp=sharing&ouid=117041756752276935516&rtpof=true&sd=true)
